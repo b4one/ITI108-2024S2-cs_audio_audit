@@ -1,0 +1,6 @@
+openai
+jiwer
+openai-whisper
+python-dotenv
+python-Levenshtein
+autocorrect
